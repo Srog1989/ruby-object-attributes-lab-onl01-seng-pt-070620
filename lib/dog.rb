@@ -21,7 +21,7 @@ end
    def breed
      @breed
    end
-  
-  snoopy = Dog.new
-    snoopy.breed = "Beagle"
-    puts snoopy.breed
+ end  
+    # snoopy = Dog.new
+    # snoopy.breed = "Beagle"
+    # puts snoopy.breed
