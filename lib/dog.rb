@@ -11,7 +11,7 @@ end
 
   Fido= Dog.new
     Fido.name = "Fido"
-    puts 
+    puts fido.name
   
   def breed(dog_breed)
     @breed = dog_breed
