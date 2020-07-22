@@ -7,7 +7,6 @@ class Dog
   def name(dog_name)
     @name
   end
-end
 
   Fido= Dog.new
     Fido.name = "Fido"
