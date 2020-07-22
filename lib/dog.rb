@@ -9,7 +9,8 @@ class Dog
   end
 end
 
-
+Fido= Dog.new
+F
   
   def breed(dog_breed)
     @breed = dog_breed
