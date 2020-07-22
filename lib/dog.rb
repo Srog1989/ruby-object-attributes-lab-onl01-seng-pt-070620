@@ -9,9 +9,9 @@ class Dog
   end
 end
 
-Fido= Dog.new
-Fido.name = "Fido"
-
+  Fido= Dog.new
+    Fido.name = "Fido"
+    puts 
   
   def breed(dog_breed)
     @breed = dog_breed
