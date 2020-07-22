@@ -13,7 +13,6 @@ end
     fido.name = "Fido"
     puts fido.name
   
-  
    def breed=(dog_breed)
     @breed= dog_breed
   end  
@@ -27,4 +26,3 @@ end
       puts snoopy.breed
     end
   end
-end
